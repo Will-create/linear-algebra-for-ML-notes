@@ -48,11 +48,9 @@ To fully grasp the upcoming material, you should be familiar with the following 
 
 ### 7. **Orthogonality and Perpendicularity in Vectors**  
    - When two vectors are perpendicular, their **dot product is zero**:  
-```
-\[
-\mathbf{a} \cdot \mathbf{b} = 0
-\] 
-```
+
+\[\mathbf{a} \cdot \mathbf{b} = 0\] 
+
  
    - Understanding orthogonal projections in vector spaces  
 
