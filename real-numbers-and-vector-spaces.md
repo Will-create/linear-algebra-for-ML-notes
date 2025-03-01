@@ -18,7 +18,7 @@ In **ℝ**, a number represents a position on a straight line.
 
 Example:  
 - The number **3** in **ℝ** represents a point on the number line at \( x = 3 \).  
-- The number **-2** represents a point at \( x = -2 \).  
+- The number **-2** represents a point at `\( x = -2 \)`.  
 
 #### **2. 2D Euclidean Space (ℝ²) – The Cartesian Plane**  
 In **ℝ²**, each point is represented by two coordinates **(x, y)**.  
@@ -39,10 +39,12 @@ Example:
 #### **4. Higher-Dimensional Spaces (ℝⁿ) – Beyond 3D**  
 For **n > 3**, we enter abstract spaces used in machine learning and data science.  
 A vector in **ℝ⁵** might look like:  
-
+```
 \[
 (1, 2, 3, 4, 5)
 \]
+```
+
 
 Even though we can't visualize beyond 3D, the same mathematical principles apply.  
 
