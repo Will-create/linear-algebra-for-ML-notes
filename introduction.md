@@ -1,0 +1,1 @@
+It is a comprehensive notes that covers everything you need to know about linear algebra for machine learning
